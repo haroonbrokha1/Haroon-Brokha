@@ -4,7 +4,7 @@
   "description": "Haroon Brokha is the mastermind behind a professional helpful platform for developers, 'Haroon Blogger'. He is a highly skilled web developer and app developer with great knowledge about blogging, web development, web designing, app development, app designing, and many more.",
   "start_url": "https://haroonbrokha.blogspot.com",
   "scope": "/",
-  "display": "fullscreen",
+  "display": "standalone",
   "orientation": "any",
   "background_color": "#007bff",
   "theme_color": "#fd0d0d",
